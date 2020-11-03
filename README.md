@@ -37,3 +37,13 @@ Please note that even if you have access previously, send an acknowledgment emai
 If you are unwilling or you can't prepare the problem in the given time, please notify me today.
 Here is the task sheet (check the "DSA" tab). Don't forget to color cells with green when you finish a task. Change your email address to your name in the cells.
 Always CC: Tripti and Yash on all emails.
+
+Sum of scores must be 100.
+
+## Statement format
+story, input, output, constraints
+samples
+
+Dear setters, to make statements more clear, let's add more than one sample test cases.
+* I always recommend you use a parameter t in your problem and give a bunch of test cases in a test file. If you're using this format, simply set a suitable t. Try to give as many sample tests as possible to help contestants get the statement easier. Even generate a little big (n = 10) random test cases to help them.
+* Otherwise, write your sample test cases 2, 3, ... in the statement section.
