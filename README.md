@@ -55,3 +55,8 @@ Here is an example: [Problem](https://www.hackerearth.com/problem/approximate/fr
 
 ### Checker troubleshoot
 If when you submit a solution it keeps turning with no result inside after a minute, there is a problem with your checker. Try fixing compile errors or time limits with the checker.
+
+### Test generation
+* Never generate test cases on your machine and upload them.
+* Use generator using [testlib](http://codeforces.com/testlib) for generating test cases.
+* Don't use multiple-test generator. This type of generator could not be used in stressing.
