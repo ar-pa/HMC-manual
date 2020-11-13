@@ -38,6 +38,9 @@ If you are unwilling or you can't prepare the problem in the given time, please 
 Here is the task sheet (check the "DSA" tab). Don't forget to color cells with green when you finish a task. Change your email address to your name in the cells.
 Always CC: Tripti and Yash on all emails.
 
+## Maintaining HMC master tracker
+After you finished a task, color the corresponding cell with green. Put your problem link in the "Setter link" column. It's something like: https://app.hackerearth.com/setter/problemform/hmc/algorithm-template/43646/.
+
 Sum of scores must be 100.
 
 ## Statement format
@@ -48,6 +51,7 @@ Dear setters, to make statements more clear, let's add more than one sample test
 * I always recommend you use a parameter t in your problem and give a bunch of test cases in a test file. If you're using this format, simply set a suitable t. Try to give as many sample tests as possible to help contestants get the statement easier. Even generate a little big (n = 10) random test cases to help them.
 * Otherwise, write your sample test cases 2, 3, ... in the statement section.
 
+You can preview your problem by clicking on "..." (to the left of "Save changes") and then "View access link".
 
 For problems having multiple answers, we need checker. To write checker, first, read input from stdin, then read user output from stdin. Put assert to give wrong answer, otherwise, to print the score, use stdout.
 Don't check "relative scoring". 
