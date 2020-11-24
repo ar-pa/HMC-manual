@@ -66,4 +66,4 @@ If when you submit a solution it keeps turning with no result inside after a min
 * Don't use multiple-test generator. This type of generator could not be used in stressing.
 
 ### Writing generator, validator
-Check [Testlib Toturial](codeforces.com/testlib).
+Check [Testlib Toturial](codeforces.com/testlib). For examples, check [Testlib Github Repository](https://github.com/MikeMirzayanov/testlib).
