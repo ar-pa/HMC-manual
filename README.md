@@ -62,6 +62,8 @@ Here is an example: [Problem](https://www.hackerearth.com/problem/approximate/fr
 ### Checker troubleshoot
 If when you submit a solution it keeps turning with no result inside after a minute, there is a problem with your checker. Try fixing compile errors or time limits with the checker.
 
+Sometimes the problem is with the judge. Leave the problem and submit your solution several hours later, when judge is free.
+
 ### Test generation
 * There are no restrictions on the number of test cases. Go ahead and make good enough test cases. Sometimes it's reachable with five test cases, sometimes with a hundred.
 * Never generate test cases on your machine and upload them.
