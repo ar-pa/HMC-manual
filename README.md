@@ -63,6 +63,7 @@ Here is an example: [Problem](https://www.hackerearth.com/problem/approximate/fr
 If when you submit a solution it keeps turning with no result inside after a minute, there is a problem with your checker. Try fixing compile errors or time limits with the checker.
 
 ### Test generation
+* There are no restrictions on the number of test cases. Go ahead and make good enough test cases. Sometimes it's reachable with five test cases, sometimes with a hundred.
 * Never generate test cases on your machine and upload them.
 * Use generator using [testlib](http://codeforces.com/testlib) for generating test cases.
 * Don't use multiple-test generator. This type of generator could not be used in stressing.
