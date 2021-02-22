@@ -47,6 +47,8 @@ Sum of scores must be 100.
 story, input, output, constraints
 samples
 
+Use proper English. For example "no more than once" doesn't mean "zero or one time" in normal English. Note that Codeforces is not proper way to learn English (while I learnt English from it). So if you want to say "no more than once", write "zero or one time". Otherwise grammar verification team changes it to "exactly once".
+
 To write in latex format, single dollar sing is not enough, use two, like: `$$x$$`.
 
 Dear setters, to make statements more clear, let's add more than one sample test cases.
