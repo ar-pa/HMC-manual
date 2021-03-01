@@ -75,3 +75,7 @@ Sometimes the problem is with the judge. Leave the problem and submit your solut
 
 ### Writing generator, validator
 Check [Testlib Toturial](codeforces.com/testlib). For examples, check [Testlib Github Repository](https://github.com/MikeMirzayanov/testlib).
+
+# Editorial
+Hi Setters.
+We want the editorials written like [this](https://docs.google.com/document/d/17HCQbvIAAliqHB3920QkjaIjLcinSw9_-K83dx6LEJU/edit) and well written like the sample.
