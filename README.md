@@ -17,7 +17,7 @@ Let the day the email sent be d,
 |--------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|
 | 1      | Fill this form to get access to the HMC dashboard.                                                                                                                                                                                                                                                                                                                                                                                                                                                 | d + 1      | Setters     |
 | 2      | Finish writing complete statements on the HMC dashboard. Mark the problem as ready for testing.                                                                                                                                                                                                                                                                                                                                                                                                    | d + 1      | Setters     |
-| 3      | Do the following for your problem in order: <br>- Generate test cases <br>- Write solutions <br>- Write editorials <br>- Write validator <br>- Write a naive solution (optional)  <br>- After creating a problem in Polygon, share it with me using the "Manage access" tab. My username is "arpa". Give me WRITE access. | d + 4   | Setters     |
+| 3      | Do the following for your problem in order: <br>- Generate test cases <br>- Write solutions <br>- Write editorials <br>- Write validator <br>- Write a naive solution (optional)  <br>- After creating a problem in Polygon, share it with me using the "Manage access" tab. My username is "arpa". Give me WRITE access. <br> Don't miss to commit the changes. | d + 4   | Setters     |
 | 4      | Grammar verification - I will notify you on this email thread after grammar verification is complete                                                                                                                                                                                                                                                                                                                                                                                               | TBA         | Yash        |
 | 5      | Verification of grammar-verified statements - Read your statement - Check for change in meaning if any - Respond in the same email thread to Yash (one email with all the changes) No changes will be made in the last week                                                                                                                                                                                                                                                                            | TBA         | Setters     |
 | 6      | Testing of the entire problem                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | d + 7~10 | Arpa        |
@@ -61,20 +61,20 @@ For problems having multiple answers, we need checker. To write checker, first, 
 Don't check "relative scoring". 
 Here is an example: [Problem](https://www.hackerearth.com/problem/approximate/fractions-sequence-b183b02a/), [Checker](https://github.com/ar-pa/HMC-manual/blob/main/sample-checker.cpp).
 
-### Checker troubleshoot
+## Checker troubleshoot
 If when you submit a solution it keeps turning with no result inside after a minute, there is a problem with your checker. Try fixing compile errors or time limits with the checker.
 
 Sometimes the problem is with the judge. Leave the problem and submit your solution several hours later, when judge is free.
 
-### Test generation
+## Test generation
 * There are no restrictions on the number of test cases. Go ahead and make good enough test cases. Sometimes it's reachable with five test cases, sometimes with a hundred.
 * Never generate test cases on your machine and upload them.
 * Use generator using [testlib](http://codeforces.com/testlib) for generating test cases.
 * Don't use multiple-test generator. This type of generator could not be used in stressing.
 * When writing a generator, use argv to have some parameters (like n, q, etc). Refer to testlib repository for examples. Then you can add stress (in Polygon) and test solutions easily.
 
-### Writing generator, validator
+## Writing generator, validator
 Check [Testlib Toturial](codeforces.com/testlib). For examples, check [Testlib Github Repository](https://github.com/MikeMirzayanov/testlib).
 
-# Editorial
+## Editorial
 We want the editorials written like [this](https://docs.google.com/document/d/17HCQbvIAAliqHB3920QkjaIjLcinSw9_-K83dx6LEJU/edit) and well written like the sample.
