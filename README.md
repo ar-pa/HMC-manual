@@ -72,6 +72,7 @@ Sometimes the problem is with the judge. Leave the problem and submit your solut
 * Use generator using [testlib](http://codeforces.com/testlib) for generating test cases.
 * Don't use multiple-test generator. This type of generator could not be used in stressing.
 * When writing a generator, use argv to have some parameters (like n, q, etc). Refer to testlib repository for examples. Then you can add stress (in Polygon) and test solutions easily.
+* You can move test cases from Polygon to HMC using [PolygonToHE](https://github.com/ar-pa/polygonToHE).
 
 ## Writing generator, validator
 Check [Testlib Toturial](codeforces.com/testlib). For examples, check [Testlib Github Repository](https://github.com/MikeMirzayanov/testlib).
