@@ -5,6 +5,7 @@ This manual is under writing, not completed yet.
 
 # Propose a problem
 [Check this blog](https://codeforces.com/blog/entry/73839) and [this](https://docs.google.com/document/d/1zD2imtOyX4fCFCg_5Yf5Va1Y5KV1494trFgkty_E1wM/edit#heading=h.o69k3hsgdlqi).
+Also, [here](https://help.hackerearth.com/hc/en-us/articles/900002483366-HMCs-rate-card-programming-questions-only-) is the rate card.
 
 # Selection
 For every contest, I (Arpa) check your proposals and accept some of them. Also, I'm trying to accept some problems as backup problems. // TODO
