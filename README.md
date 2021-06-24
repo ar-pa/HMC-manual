@@ -28,15 +28,23 @@ Let the day the email sent be d,
 | 10     | Contest goes live                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | TBA         | Arpit       |
 
 For test cases, use Polygon or TPS for preparing problems. Don't create test cases locally and upload them to Polygon. It's important. If you don't know about Polygon and TPS, I can help you.
+
 Times are in IST.
+
 Dates are inclusive.
+
 Although there is a gap between when you finish and the contest date, it's not acceptable that you prepare something after the deadline. We need that time for a substitution if needed.
+
 Useful links: HMC, Polygon, Polygon help, Testlib, polygonToHE.
+
 Important note: From August contests, writing a complete validator is necessary for all problems. Take a look at the Testlib guide for more information. Also, don't forget to submit your solution on HMC to get accepted and your validator (it should not get RE on any test case). You need to copy-paste testlib.h above your code when submitting.
+
 After you finished the first task, please notify us (me and +Tripti Padukone) in this thread.
+
 Please note that even if you have access previously, send an acknowledgment email that you'll prepare your problem in the given deadline.
+
 If you are unwilling or you can't prepare the problem in the given time, please notify me today.
-Here is the task sheet (check the "DSA" tab). Don't forget to color cells with green when you finish a task. Change your email address to your name in the cells.
+
 Always CC: Tripti and Yash on all emails.
 
 ## Maintaining HMC master tracker
@@ -45,10 +53,11 @@ After you finished a task, color the corresponding cell with green. Put your pro
 Sum of scores must be 100.
 
 ## Statement format
-story, input (not input format), output (not output format), constraints
-samples
+Order: story, Input (not input format), Output (not output format), Constraints, Samples.
 
-[A good example](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/xor-subsequence-2-d972bf76/), except input format should be input and oputput format should be output.
+Use our formula writer, it's better than using LaTeX. Don't write something like  "3\*sqrt(x)", use formula writer to make it beautiful.
+
+[A good example](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/xor-subsequence-2-d972bf76/), except input format should be input and output format should be output.
 
 Use proper English. For example "no more than once" doesn't mean "zero or one time" in normal English. Note that Codeforces is not proper way to learn English (while I learnt English from it). So if you want to say "no more than once", write "zero or one time". Otherwise grammar verification team changes it to "exactly once".
 
