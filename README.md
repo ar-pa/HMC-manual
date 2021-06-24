@@ -45,8 +45,10 @@ After you finished a task, color the corresponding cell with green. Put your pro
 Sum of scores must be 100.
 
 ## Statement format
-story, input, output, constraints
+story, input (not input format), output (not output format), constraints
 samples
+
+[A good example](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/xor-subsequence-2-d972bf76/), except input format should be input and oputput format should be output.
 
 Use proper English. For example "no more than once" doesn't mean "zero or one time" in normal English. Note that Codeforces is not proper way to learn English (while I learnt English from it). So if you want to say "no more than once", write "zero or one time". Otherwise grammar verification team changes it to "exactly once".
 
