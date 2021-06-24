@@ -85,6 +85,7 @@ Sometimes the problem is with the judge. Leave the problem and submit your solut
 * Don't use multiple-test generator. This type of generator could not be used in stressing.
 * When writing a generator, use argv to have some parameters (like n, q, etc). Refer to testlib repository for examples. Then you can add stress (in Polygon) and test solutions easily.
 * You can move test cases from Polygon to HMC using [PolygonToHE](https://github.com/ar-pa/polygonToHE).
+* We don't prefer problems with subtasks. A wrong solution must get zero score (and for sure a correct solution must get 100). So you can set test scores as you want. Anyway, dividing score to test cases equally is always a good strategy.
 
 ## Writing generator, validator
 Check [Testlib Toturial](codeforces.com/testlib). For examples, check [Testlib Github Repository](https://github.com/MikeMirzayanov/testlib).
