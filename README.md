@@ -27,25 +27,16 @@ Let the day the email sent be d,
 | 9      | Publish a blog post on Codeforces - You can search for some examples. - Volunteer and let me know who is doing this - Search names of authors to find their username on Codeforces.                                                                                                                                                                                                                                                                                                                | TBA         | Setters     |
 | 10     | Contest goes live                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | TBA         | Arpit       |
 
-For test cases, use Polygon or TPS for preparing problems. Don't create test cases locally and upload them to Polygon. It's important. If you don't know about Polygon and TPS, I can help you.
-
-Times are in IST.
-
-Dates are inclusive.
-
-Although there is a gap between when you finish and the contest date, it's not acceptable that you prepare something after the deadline. We need that time for a substitution if needed.
-
-Useful links: HMC, Polygon, Polygon help, Testlib, polygonToHE.
-
-Important note: From August contests, writing a complete validator is necessary for all problems. Take a look at the Testlib guide for more information. Also, don't forget to submit your solution on HMC to get accepted and your validator (it should not get RE on any test case). You need to copy-paste testlib.h above your code when submitting.
-
-After you finished the first task, please notify us (me and +Tripti Padukone) in this thread.
-
-Please note that even if you have access previously, send an acknowledgment email that you'll prepare your problem in the given deadline.
-
-If you are unwilling or you can't prepare the problem in the given time, please notify me today.
-
-Always CC: Tripti and Yash on all emails.
+* For test cases, use Polygon or TPS for preparing problems. Don't create test cases locally and upload them to Polygon. It's important. If you don't know about Polygon and TPS, I can help you.
+* Times are in IST.
+* Dates are inclusive.
+* Although there is a gap between when you finish and the contest date, it's not acceptable that you prepare something after the deadline. We need that time for a substitution if needed.
+* Useful links: HMC, Polygon, Polygon help, Testlib, polygonToHE.
+* Important note: From August contests, writing a complete validator is necessary for all problems. Take a look at the Testlib guide for more information. Also, don't forget to submit your solution on HMC to get accepted and your validator (it should not get RE on any test case). You need to copy-paste testlib.h above your code when submitting.
+* After you finished the first task, please notify us (me and +Tripti Padukone) in this thread.
+* Please note that even if you have access previously, send an acknowledgment email that you'll prepare your problem in the given deadline.
+* If you are unwilling or you can't prepare the problem in the given time, please notify me today.
+* Always CC: Tripti and Yash on all emails.
 
 ## Maintaining HMC master tracker
 After you finished a task, color the corresponding cell with green. Put your problem link in the "Setter link" column. It's something like: https://app.hackerearth.com/setter/problemform/hmc/algorithm-template/43646/.
