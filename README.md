@@ -8,7 +8,9 @@ This manual is under writing, not completed yet.
 Also, [here](https://help.hackerearth.com/hc/en-us/articles/900002483366-HMCs-rate-card-programming-questions-only-) is the rate card.
 
 # Selection
-For every contest, I (Arpa) check your proposals and accept some of them. Also, I'm trying to accept some problems as backup problems. // TODO
+For every contest, I (Arpa) check your proposals and accept some of them. Also, I'm trying to accept some problems as backup problems.
+
+A setter that proposed a full set for a contest can't propose another full set in that month or the next month. For example, if a setter proposed August Circuits, then the first contest he/she can propose is October Easy.
 
 # Preparation
 ## Things to be done
