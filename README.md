@@ -31,7 +31,7 @@ Let the day the email sent be d,
 * If you are unwilling or you can't prepare the problem in the given time, please notify me today.
 * Always CC: Tripti and Problem_setting@hackerearth.com on all emails.
 * [Here](https://docs.google.com/spreadsheets/d/1zvzCMbm4zSU6HRuudU2bOoXTzkvYL5AALGXx4ObBfow/edit#gid=1287111182) is the task sheet (check the tab for corresponding contest, e.g. if you received the email "September Easy '21", check the Easy tab). Don't forget to color cells with green when you finish a task. Write your name in the corresponding cells.
-
+* You can find your problem statement in the sheet by hovering mouse on the problem.
 ## Useful links
 * [HMC (HackerEarth Monthly Contests)](https://app.hackerearth.com/setter/myproblems/algorithm-template/hmc/), the platform that we prepare our problems at the last.
 * [Polygon](https://polygon.codeforces.com/), the platform that we prepare the problem and test cases at the first.
