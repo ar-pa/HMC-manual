@@ -91,3 +91,6 @@ We want the editorials written like [this](https://docs.google.com/document/d/17
 
 ## Contest date
 We have three contests per month, Easy, DSA and Circuits. Almost always Easy is held on the first Saturday, DSA is held on the second Saturday, and, Circuits is held on the third Saturday.
+
+## Other points
+For raising invoice, please checkout the sheet again, because it's possible that after testing, I update the problem difficulty.
