@@ -37,7 +37,7 @@ Let the day the email sent be d,
 * [Polygon help](https://polygon.codeforces.com/static/polygon.rtf).
 * [Testlib](https://codeforces.com/testlib), the library to be used for generators and validators (and maybe checkers).
 * [polygonToHE](https://github.com/ar-pa/polygonToHE), it helps you to transfer your test cases from Polygon to HMC.
-* [HMC](https://app.hackerearth.com/setter/problemslibrary/algorithm-template/hmc/)
+* [HMC](https://app.hackerearth.com/setter/)
 
 ## Maintaining HMC master tracker
 After you finished a task, color the corresponding cell with green. Put your problem link in the "Setter link" column. It's something like: https://app.hackerearth.com/setter/problemform/hmc/algorithm-template/43646/.
