@@ -88,6 +88,8 @@ Writing a complete validator is necessary for all problems. Take a look at the T
 ## Editorial
 We want the editorials written like [this](https://docs.google.com/document/d/17HCQbvIAAliqHB3920QkjaIjLcinSw9_-K83dx6LEJU/edit) and well written like the sample.
 
+About editorials for easy problems: The coder how didn't solved the problem and switched to the editorial, is not strong as you are. Write a editorial that he can understand. Editorial for easier problem should be more detailed than harder ones. You should even point out to implementation in different languages. 
+
 ## Contest date
 We have three contests per month, Easy, DSA and Circuits. Almost always Easy is held on the first Saturday, DSA is held on the second Saturday, and, Circuits is held on the third Saturday.
 
