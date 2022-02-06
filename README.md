@@ -59,6 +59,10 @@ To make statements more clear, let's add more than one sample test cases.
 * I always recommend you use a parameter t in your problem and give a bunch of test cases in a test file. If you're using this format, simply set a suitable t. Try to give as many sample tests as possible to help contestants get the statement easier. Even generate a little big (n = 10) random test cases to help them.
 * Otherwise, write your sample test cases 2, 3, ... in the statement section.
 
+Always have at least one non-obvious sample test case. Sample test cases should help participants better understand the statement. Don't write something to bail out yourself. 
+
+Do not use big varable names like `N`, use lower case: `n`.
+
 You can preview your problem by clicking on "..." (to the left of "Save changes") and then "View access link".
 
 
