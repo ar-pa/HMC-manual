@@ -49,7 +49,7 @@ Order: story, Input format, Output format, Constraints, Samples.
 
 Use our formula writer, it's better than using LaTeX. Don't write something like  "3\*sqrt(x)", use formula writer to make it beautiful.
 
-[A good example](https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms/practice-problems/algorithm/xor-subsequence-2-d972bf76/).
+[A good example](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/practice-problems/approximate/tennis-tournament-75939265/).
 
 Use proper English. For example "no more than once" doesn't mean "zero or one time" in normal English. Note that Codeforces is not proper way to learn English (while I learnt English from it). So if you want to say "no more than once", write "zero or one time". Otherwise grammar verification team changes it to "exactly once".
 
@@ -61,7 +61,7 @@ To make statements more clear, let's add more than one sample test cases.
 
 Always have at least one non-obvious sample test case. Sample test cases should help participants better understand the statement. Don't write something to bail out yourself. 
 
-Do not use big varable names like `N`, use lower case: `n`.
+Do not use uppercase varable names like `N`, use lowercase: `n`.
 
 You can preview your problem by clicking on "..." (to the left of "Save changes") and then "View access link".
 
